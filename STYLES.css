@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 1.2rem;
+  margin: 0;
+  padding: 0;
+
+}
+
+h1 {
+  margin: 40px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.0rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+h4 {
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 1.3rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #2B3467;
+  border-width: 5px;
+  width: 6%;
+}
+
+
+.mountain {
+  width: 400px;
+  margin-bottom: -100px;
+}
+
+.top-cloud {
+  position:absolute;
+  right: 250px;
+  top: 120px;
+  width: 115px;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left: 10px;
+  bottom: 250px;
+  width: 500px;
+
+}
+
+
+.top-container {
+  background-color: #c8d9ed;
+  position: relative;
+  padding-top: 130px;
+}
+
+.middle-container {
+  background-color: #f0f4f8;
+  margin-top: -100px;
+  margin-bottom: -100px;
+}
+
+.bottom-container {
+  background-color: #f0f4f8;
+  margin-bottom: -100px;
+}
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-2 {
+  width: 90%;
+  margin: 0px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-3 {
+  width: 90%;
+  margin: 0px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.code-img {
+  width: 25%;
+}
+
+.chili-img {
+  width: 25%;
+}
+
+
+.intro {
+  text-align: left;
+  width: 100%;
+  margin: auto;
+}
